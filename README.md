@@ -1,4 +1,5 @@
 # Jmeter examples
+Jmeter is typical NFT tool and can verify external(or internal) system is working the way expected without any Testing Code.
 
 ## Typical Process
 1. Create a Thread Group (TestPlan must be already there)
