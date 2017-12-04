@@ -11,6 +11,11 @@ Above is pretty much the most basic flow.
 
 And we can have A LOT more options here and there. Assertions can be added to verify the test result.  
 
+### Thread Group
+Thread Group is many users are needed to be test for the test case. It can be considered as concurrent users
+
+![Thread Group](images/main/thread_group.png)
+
 ### Sampler
 Main test point here. This will have what you are going to test.
 
@@ -37,3 +42,7 @@ You can put assertions here to verify what your test produced are same as expect
 - Response Assertion
 - XML Assertion
 - and more (XPath, Size ...)
+
+
+## Examples
+1. Very basic example - [Very Basic](examples/very-basic)
